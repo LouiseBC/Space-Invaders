@@ -1,2 +1,4 @@
+![screenshot](https://github.com/LouiseBC/Space-Invaders/blob/master/Textures/screenshot.png)
+
 # Space-Invaders
-Simple space invaders clone made for Recurse Center Application in November 2016
+Simple space invaders clone made for my Recurse Center Application in November 2016

@@ -95,12 +95,6 @@ void EnemyHandler::update(const float& deltatime, std::vector<Bullet>& bullets) 
             maybeSpawnSpaceShip(deltatime);
         else
             moveSpaceShip(deltatime);
-        
-        for (int i = enemies.size()-1; i >= 0; --i) {
-            if (!enemies[i]->isDead())
-            std::cout << enemies[i]->currDirection() << std::endl;
-        }
-        std::cout << std::endl;
     }
 }
 
